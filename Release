@@ -1,0 +1,8 @@
+Origin: Creatix Beta Repo
+Label: Creatix
+Suite: stable
+Version: 1.0-1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Beta Tweaks, Themes, and more!
